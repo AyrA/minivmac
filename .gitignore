@@ -1,0 +1,6 @@
+Makefile
+bld/
+build.sh
+cfg/
+minivmac.exe
+setup_t
